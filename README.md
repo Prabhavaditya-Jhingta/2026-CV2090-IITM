@@ -15,8 +15,8 @@ This is the main repo for CV 2090, second year undergraduate course at the Depar
 |                                 | M1C3    | Multivariate Probability               | L17 -- L21 (01 Sep -- 10 Sep) |
 |                                 | M1C4    | Modeling Extremes                      | L22 -- L25 (17 Sep -- 22 Sep) |
 | **Module 2: Statistics**        | M2C1    | Descriptive Statistics                 | L26 -- L28 (24 Sep -- 28 Sep) |
-|                                 | M2C2    | Statistical Inference                  | L29 --  (01 Oct -- ) |
-|                                 | M2C3    | Regression & Statistical Learning      |               |
+|                                 | M2C2    | Statistical Inference                  | L29 -- L32 (01 Oct -- 08 Oct) |
+|                                 | M2C3    | Regression & Statistical Learning      | L33 --  (13 Oct -- ) |
 | **Module 3: Reliability**       | M3C1    | Reliability Analysis                   |               |
 |                                 | M3C2    | Computational Reliability              |               |
 |                                 | M3C3    | Stochastic Processes                   |               |
@@ -32,7 +32,12 @@ This is the main repo for CV 2090, second year undergraduate course at the Depar
 | Tutorial-4 | Joint random variables            | 07 Sep |
 | Tutorial-5 | Extreme value theory              | 21 Sep |
 | Tutorial-6 | Parameter estimation and Conf. Int.| 28 Sep |
+| Tutorial-7 | Hypothesis Testing | 12 Oct |
 
+## Exams
+1. Quiz I: 31 Aug 2026 ✔️
+2. Quiz II: 12 Oct 2026 ✔️
+3. End-semester Exam: 10 Nov 2026
 
 ## **References**
 
